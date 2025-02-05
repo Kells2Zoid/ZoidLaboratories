@@ -2,16 +2,14 @@
 
 *Written by Kelly Elvis*
 
-## Overview
-Welcome to the **[zoidLabs]** site! This platform serves as a central hub for laboratory research, experiments, and data management. It is designed to facilitate collaboration, streamline workflows, and provide access to essential resources for researchers, students, and staff.
+## Goal of the project
+Welcome to the **[zoidLabs]** site his platform serves as a central hub for laboratory research, experiments, and data management. It is designed to facilitate collaboration, streamline workflows, and provide access to essential resources for research,it also shares the objectives of the laboratories and it allows application to various science departments according to your location and qualification
 
 ##  Features
-- **Experiment Tracking:** Record and monitor ongoing experiments.
+- **application prompt:** Allows users to apply and get placed in their respective departments
 - **Data Management:** Secure storage for raw and processed data.
-- **Collaboration Tools:** Share findings, documents, and reports with team members.
 
 - **User Dashboard:** Personalized interface for managing projects and activities.
-
 
 
 ## How to Use
