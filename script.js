@@ -1,5 +1,5 @@
 function submitForm(event){
-event.preventdefault();
+event.preventDefault();
 window.location.href = 'about.html';
 return false;
 }
@@ -24,12 +24,10 @@ document.getElementById('qualificationForm').addEventListener('submit', function
 
 
 
-document.addEventListener("DOMContentLoaded", 
-    function () {
+document.addEventListener("click", function () {
     document.getElementById("userForm").addEventListener("submit", function (event) {
         event.preventDefault(); 
 
-        alert= ("Your details have been collected. Move on to the next page of your choice!");
-
+        alert("Your details have been collected. Move on to the next page of your choice!");this.reset();
     });
 });
