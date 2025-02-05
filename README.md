@@ -9,7 +9,7 @@ Welcome to the **[zoidLabs]** site! This platform serves as a central hub for la
 - **Experiment Tracking:** Record and monitor ongoing experiments.
 - **Data Management:** Secure storage for raw and processed data.
 - **Collaboration Tools:** Share findings, documents, and reports with team members.
-- **Resource Access:** Download protocols, manuals, and safety guidelines.
+
 - **User Dashboard:** Personalized interface for managing projects and activities.
 
 
