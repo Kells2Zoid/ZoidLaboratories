@@ -1,4 +1,28 @@
+.container button {
+    background-color: #007BFF; /* Default blue color */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer; 
+    transition: background-color 0.3s ease;
+    border-radius: 5px; 
+}
 
+.container button:hover {
+    background-color: #0056b3; 
+    cursor: pointer;
+}
+.container{
+    display: flex;
+    flex-direction: column;         
+    justify-content: center;        
+    align-items: center;            
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);    
+    border-radius: 12px;            
+    width: 100%;                     
+    min-height: 60vh;}
 
 body{
     background-image: url(zoid_1.2.webp);

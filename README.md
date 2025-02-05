@@ -39,6 +39,6 @@ Welcome to the **[zoidLabs]** site! This platform serves as a central hub for la
 - Mobile application for on-the-go access.
 
 ## Contact
-For support, contact **[Lab Administrator Name]** Kelly ElvisS **[zoidlaboratories@gmail.com]** or visit **[Lab Website URL]**
+For support, contact **[Lab Administrator ]** Kelly ElvisS **[zoidlaboratories@gmail.com]** or visit **[Lab Website URL]**
 
 
