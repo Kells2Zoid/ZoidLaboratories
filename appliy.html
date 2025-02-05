@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asignment</title>
+    <style>
+        body{
+            background-image: url(zoid_1.2.webp);
+        }
+        form {
+            background: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        label {
+            display: block;
+            margin-bottom: 10px;
+        }
+        select, input {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+        button {
+            padding: 10px 15px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        } 
+    
+    
+    
+    </style>
+
+    
+</head>
+<body>
+
+    <h1>Qualifications Assignment to zoidLabs</h1>
+    <form id="qualificationForm">
+        <label for="qualification">Select Your Qualification:</label>
+        <select id="qualification" required>
+            <option value="">Select</option>
+            <option value="PhD">PhD</option>
+            <option value="Masters">Masters</option>
+            <option value="Bachelors">Bachelors</option>
+        </select>
+
+        <label for="continent">Select Your Continent:</label>
+        <select id="continent" required>
+            <option value="">Select</option>
+            <option value="North America">North America</option>
+            <option value="Europe">Europe</option>
+                <option value="Asia">Asia</option>
+                <option value="Africa">Africa</option>
+                <option value="Australia">Australia</option>
+                <option value="South America">South America</option>
+            </select>
+    
+            <label for="position">Select Your Position:</label>
+            <select id="position" required>
+
+                <option value="">Select</option>
+                <option value="Research Scientist">Research Scientist</option>
+                <option value="Lab Technician">Lab Technician</option>
+                <option value="Project Manager">Project Manager</option>
+            </select>
+            
+            <label for="field">Field of Science:</label>
+            <select id="field" required>
+                <option value="">Select</option>
+                <option value="Biotechnology">Biotechnology</option>
+                <option value="Pharmaceuticals">Pharmaceuticals</option>
+                <option value="Physics & Materials Science">Physics & Materials Science</option>
+            </select>
+            
+            <label for="cv">Upload Your CV:</label>
+            <input type="file" id="cv" required>
+        <button type="submit">Apply</button>
+        <button type="submit">Assign Department</button>
+    </form>
+
+    <div id="result"></div>
+    <button onclick="window.location.href='services.html';">
+            To services page
+        </button>
+        <button onclick="window.location.href='index.html';">
+            To home page
+        </button>
+
+    <script src="script.js"></script>
+</body>
+</html>
+

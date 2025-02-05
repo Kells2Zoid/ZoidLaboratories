@@ -1,0 +1,36 @@
+
+
+body{
+    background-image: url(zoid_1.2.webp);
+}
+
+.container-2 .header h1 {
+font-family: 'Times New Roman', Times, serif;
+font-size: 50px;
+color: rgb(22, 16, 16);
+
+}
+@media (max-width:600px){
+    .container-2{
+padding-left: 500px;
+background-color: whitesmoke;
+background-size: 60%;
+}}
+
+.container-s {
+    display: flex;
+    flex-direction: column;         
+    justify-content: center;        
+    align-items: center;            
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);    
+    border-radius: 12px;            
+    width: 100%;                     
+    min-height: 60vh;               
+box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); 
+    color: white;                   
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    padding-left: 30%;
+}
+

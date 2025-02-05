@@ -12,17 +12,7 @@ Welcome to the **[zoidLabs]** site! This platform serves as a central hub for la
 - **Resource Access:** Download protocols, manuals, and safety guidelines.
 - **User Dashboard:** Personalized interface for managing projects and activities.
 
-## Structure
-```
-/laboratory-site
-│── README.md              # This file
-│── /docs                  # Documentation and user guides
-│── /data                  # Storage for experimental data
-│── /protocols             # Standard operating procedures
-│── /users                 # User profiles and access control
-│── /reports               # Generated reports and findings
-│── /tools                 # Software tools for data analysis
-```
+
 
 ## How to Use
 1. **Sign In/Register:** Create an account or log in to access features.
@@ -31,8 +21,8 @@ Welcome to the **[zoidLabs]** site! This platform serves as a central hub for la
 4. **Generate Reports:** Use available tools to analyze data and generate reports.
 5. **Collaborate:** Share findings and documents with team members.
 
-## 🛠 Technical Requirements
-- Web Browser: Chrome, Firefox, Safari, or Edge (latest versions)
+## Technical Requirements
+- Web Browser: Chrome, Firefox
 - Database: [Specify database used, e.g., PostgreSQL, MongoDB]
 - Backend: [Specify backend technology, e.g., Django, Flask, Node.js]
 - Frontend: [Specify frontend technology, e.g., React, Vue, Angular]
@@ -49,9 +39,6 @@ Welcome to the **[zoidLabs]** site! This platform serves as a central hub for la
 - Mobile application for on-the-go access.
 
 ## Contact
-For support, contact **[Lab Administrator Name]** at **[email@example.com]** or visit **[Lab Website URL]**.
+For support, contact **[Lab Administrator Name]** Kelly ElvisS **[zoidlaboratories@gmail.com]** or visit **[Lab Website URL]**
 
----
-
-_This site is continuously updated to improve functionality and user experience._
 
