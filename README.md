@@ -17,14 +17,11 @@ Welcome to the **[zoidLabs]** site his platform serves as a central hub for labo
 2. **Browse Protocols:** Navigate to the `Protocols` section for standardized experiment procedures.
 3. **Submit Data:** Upload and organize raw and processed experiment data in the `Data` section.
 
-5. **Collaborate:** Share findings and documents with team members.
+4. **Collaborate:** Share findings and documents with team members.
 
 ## Technical Requirements
-- Web Browser: Chrome, Firefox
-- Database: [Specify database used, e.g., PostgreSQL, MongoDB]
-- Backend: [Specify backend technology, e.g., Django, Flask, Node.js]
-- Frontend: [Specify frontend technology, e.g., React, Vue, Angular]
-- Hosting: [Specify hosting details, e.g., AWS, on-premises]
+- Web Browser: Chrome, Fire fox
+
 
 ## Security & Compliance
 - **Data Encryption:** All sensitive data is encrypted.
