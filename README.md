@@ -16,7 +16,7 @@ Welcome to the **[zoidLabs]** site his platform serves as a central hub for labo
 1. **Sign In/Register:** Create an account or log in to access features.
 2. **Browse Protocols:** Navigate to the `Protocols` section for standardized experiment procedures.
 3. **Submit Data:** Upload and organize raw and processed experiment data in the `Data` section.
-4. **Generate Reports:** Use available tools to analyze data and generate reports.
+
 5. **Collaborate:** Share findings and documents with team members.
 
 ## Technical Requirements
