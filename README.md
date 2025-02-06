@@ -1,6 +1,6 @@
 # Laboratory Site README
 
-*Written by Kelly Elvis*
+**Written by Kelly Elvis**
 
 ## Goal of the project
 Welcome to the **[zoidLabs]** site his platform serves as a central hub for laboratory research, experiments, and data management. It is designed to facilitate collaboration, streamline workflows, and provide access to essential resources for research,it also shares the objectives of the laboratories and it allows application to various science departments according to your location and qualification
@@ -26,7 +26,7 @@ Welcome to the **[zoidLabs]** site his platform serves as a central hub for labo
 ## Security & Compliance
 - **Data Encryption:** All sensitive data is encrypted.
 - **Access Control:** Users have role-based access to restrict unauthorized changes.
-- **Compliance:** Adheres to [ISO, HIPAA, GDPR, or other relevant regulations].
+
 
 ## Future Enhancements
 - Integration with external databases and AI-driven analysis tools.
